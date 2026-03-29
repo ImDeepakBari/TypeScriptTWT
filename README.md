@@ -2,7 +2,7 @@
 TypeScript tutorial 
 
 
-******** Feature ******
+******** Feature *********
 ------------------------
 1. TypeScript adds compile time type checking.This catches a wide variety of programming errors that in JavaScript are only encountered at runtime.
 
