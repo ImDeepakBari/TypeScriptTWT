@@ -1,0 +1,24 @@
+{
+  "name": "typescripttwt",
+  "version": "1.0.0",
+  "description": "TypeScript tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImDeepakBari/TypeScriptTWT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ImDeepakBari/TypeScriptTWT/issues"
+  },
+  "homepage": "https://github.com/ImDeepakBari/TypeScriptTWT#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
